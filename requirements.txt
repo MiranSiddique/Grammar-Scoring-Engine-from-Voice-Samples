@@ -1,0 +1,11 @@
+torch
+pandas
+numpy
+scikit-learn
+transformers
+openai-whisper
+librosa
+matplotlib
+seaborn
+tqdm
+torcheval
